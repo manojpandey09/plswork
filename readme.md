@@ -34,3 +34,6 @@ python setup.py install
 ```
 pip install -r requirements.txt
 ```
+
+ C:\Users\ASUS\Downloads\plswork
+ environment
