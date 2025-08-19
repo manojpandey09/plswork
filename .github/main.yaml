@@ -2,8 +2,7 @@ name: Build and push image to ECR
 on:
   push:
     branches:
-       - main           #whenver u are pushing anything in ur main branch then only run this entire wprk flow
-
+       - main
 
 
 jobs:
